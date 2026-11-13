@@ -6,7 +6,7 @@
 - .กลุ่มเป้าหมาย-นักท่องเที่ยวชาวไทยที่มาเที่ยวจากต่างจังหวัดและนักท่องเที่ยวชาวต่างชาติ
   
 2.ออกแบบ Sitemap อย่างน้อย 4 หน้า
-- [link]([https://classroom.google.com/w/ODc0MTU2NTcwMDM3/t/all?hl=th](https://canva.link/psh7ctfxy8fkins))
+- [link](https://canva.link/psh7ctfxy8fkins)
   
 3.ออกแบบ Wireframe หน้าแรก บน Desktop
 - [link](https://www.tiktok.com/th-TH/)
