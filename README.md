@@ -9,6 +9,6 @@
 - [link](https://classroom.google.com/w/ODc0MTU2NTcwMDM3/t/all?hl=th)
   
 3.ออกแบบ Wireframe หน้าแรก บน Desktop
-- 
+- [link](https://www.tiktok.com/th-TH/)
 
 4.อธิบายเหตุผลในการเลือกสี การจัดวาง และการออกแบบ
