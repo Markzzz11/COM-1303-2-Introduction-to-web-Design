@@ -9,7 +9,7 @@
 - [link](https://canva.link/psh7ctfxy8fkins)
   
 3.ออกแบบ Wireframe หน้าแรก บน Desktop
-- [link](https://www.tiktok.com/th-TH/)
+- [link](https://canva.link/1fj44nf12kkfk9b)
 
 4.อธิบายเหตุผลในการเลือกสี การจัดวาง และการออกแบบ
-- [link](https://www.tiktok.com/th-TH/)
+- เหตุผลที่เลือกสีนี้เพราะอยากให้เว็บออกโทนอุ่นและไม่แสบตาจนเกินไป ส่วนการจัดวางและออกแบบเพราะจะได้ดูง่ายและไม่ซับซ้อนจนเกินไป
